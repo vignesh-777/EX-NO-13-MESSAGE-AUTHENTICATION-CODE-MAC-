@@ -87,7 +87,8 @@ int main() {
 
 
 ## Output:
-![EXP13(CRY)](https://github.com/user-attachments/assets/c50e189c-8f6c-4719-878b-e5a4026275e4)
+
+![384775629-c29dfc12-fd29-4f76-8203-84b4bb4991e0](https://github.com/user-attachments/assets/999f65e2-fd2d-456f-ac64-770f638054ce)
 
 
 ## Result:
